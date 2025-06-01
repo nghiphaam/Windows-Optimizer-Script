@@ -39,11 +39,11 @@ A powerful and comprehensive Windows optimization script to unlock the full perf
 
 ## 🚀 How to Use
 
-1. **Download or clone** the repository:
-    ```bash
-    git clone https://github.com/yourusername/windows-optimizer.git
-    ```
-2. **Right-click** the script file (`.bat`) and select **Run as administrator**.
+1. **Download** the latest release of the script:  
+   👉 Go to the **[Releases](https://github.com/yourusername/windows-optimizer/releases/latest)** page and download `script.bat`.
+
+2. **Right-click** on `script.bat` and select **Run as administrator**.
+
 3. **Follow the on-screen prompts** to apply the optimizations you want.
 
 ---
@@ -82,4 +82,3 @@ Feel free to [open an issue](https://github.com/yourusername/windows-optimizer/i
 ---
 
 **Enjoy faster, smoother Windows performance!**
-
