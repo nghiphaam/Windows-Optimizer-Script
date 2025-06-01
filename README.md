@@ -40,7 +40,7 @@ A powerful and comprehensive Windows optimization script to unlock the full perf
 ## 🚀 How to Use
 
 1. **Download** the latest release of the script:  
-   👉 Go to the **[Releases](https://github.com/yourusername/windows-optimizer/releases/latest)** page and download `script.bat`.
+   👉 Go to the **[Releases](https://github.com/nghiphaam/Windows-Optimizer-Script/releases/latest)** page and download `script.bat`.
 
 2. **Right-click** on `script.bat` and select **Run as administrator**.
 
@@ -77,7 +77,7 @@ This project is licensed under the [MIT License](LICENSE).
 ### 👏 Contribute
 
 Found a bug or want to add a new tweak?  
-Feel free to [open an issue](https://github.com/yourusername/windows-optimizer/issues) or make a pull request!
+Feel free to [open an issue](https://github.com/nghiphaam/Windows-Optimizer-Script/issues) or make a pull request!
 
 ---
 
